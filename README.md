@@ -181,9 +181,17 @@ Verify that you have a default browser set in your system settings.
 - Update Rust: `rustup update`
 - Clear build cache: `cargo clean` in the `src-tauri` directory
 
-## License
+## License & Usage
 
-This project is a desktop wrapper for WhatsApp Web and is not affiliated with, endorsed by, or connected to WhatsApp Inc. or Meta Platforms, Inc.
+This WhatsApp Tauri wrapper is **open source** and **free to use and modify**. You are welcome to:
+
+- ✅ Use it for personal or commercial purposes
+- ✅ Modify and customize it to fit your needs
+- ✅ Distribute your modified versions
+- ✅ Contribute improvements back to the project
+
+> [!IMPORTANT]
+> This project is a desktop wrapper for WhatsApp Web and is **not affiliated with, endorsed by, or connected to** WhatsApp Inc. or Meta Platforms, Inc. All WhatsApp trademarks and content belong to their respective owners.
 
 ## Recommended IDE Setup
 
