@@ -1,4 +1,4 @@
-# WhatsApp Linux
+# WhatsApp Tauri Wrapper
 
 A native desktop wrapper for WhatsApp Web built with Tauri, providing a seamless WhatsApp experience on Linux with system-level integration.
 
@@ -63,7 +63,7 @@ Before building this application, ensure you have the following installed:
 
    ```bash
    git clone <repository-url>
-   cd whatsapp-linux
+   cd whatsapp-tauri
    ```
 
 2. **Install dependencies**
@@ -107,7 +107,7 @@ This will start the development server with hot-reload enabled.
 ## Project Structure
 
 ```
-whatsapp-linux/
+whatsapp-tauri/
 ├── src/                    # Frontend assets
 │   ├── index.html         # Main HTML file
 │   ├── main.js            # JavaScript logic
@@ -163,7 +163,7 @@ The application configuration can be modified in [`src-tauri/tauri.conf.json`](s
 
 - **Window size**: Currently set to 1200x800
 - **Application ID**: `com.whatsapp.wrapper`
-- **Product name**: `WhatsApp Linux`
+- **Product name**: `WhatsApp Tauri`
 
 ## Troubleshooting
 
